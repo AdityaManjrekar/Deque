@@ -1,4 +1,4 @@
-# Deque
+# Deque - Doubly ended Queue
 
 Steps to Execute:
 1)g++ -std=c++11 -Wall -Wextra -pedantic -ldl test.cpp -o test
